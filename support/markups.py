@@ -2,11 +2,8 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 start = [
         [
-        [
             InlineKeyboardButton('join US FOR MORE ', url='t.me/TEAM_SILENT_KING'),
-            InlineKeyboardButton('Support', url='t.me/OFF_CHATS'),
             InlineKeyboardButton('Source', url='github.com/Dvansh20055')
-        ]
         ]
         ]
 
